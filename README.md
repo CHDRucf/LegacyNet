@@ -1,5 +1,7 @@
 # LegacyNet User Interface
 
+This is an archived copy of this project.
+
 This project was created by UCF CS Senior Design Group 6 during the Fall 2020 Semester.
 It was designed to automate the tedious process of mapping headstone locations by hand.
 This program uses machine learning to detect visible headstones in a TIFF image,
